@@ -1,10 +1,3 @@
-cpp
-
-Verify
-
-Open In Editor
-Edit
-Copy code
 #include <iostream>
 
 int main() {
