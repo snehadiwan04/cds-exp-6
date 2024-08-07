@@ -1,8 +1,8 @@
 # Experiment-
 ## Aim -
-To study and implement C++ decision making statements loops.
+To study and implement C++ decision-making statement loops.
 ## Theory -
-Loops are used to make the program less repetitive and compact ny iterating a part of a program several times .Thus,they are also  called repetitive control structures.
+Loops are used to make the program less repetitive and compact by iterating a part of a program several times . Thus, they are also  called repetitive control structures.
 
 Types of loops:-
 
@@ -68,6 +68,10 @@ int main() {
 ```
 ### 3.
 ```
+//Sneha Diwan
+// 23070123126
+// Entc b2
+// experiment 6
 #include <iostream>
 
 using namespace std;
@@ -116,6 +120,7 @@ int main() {
 ```
 ### 5.
 ```
+
 #include <iostream>
 
 int main() {
@@ -134,6 +139,9 @@ int main() {
 ```
 ### 6. 
 ```
+// sneha diwan
+// 23070123126
+// entc b2 
 #include <iostream>
 
 int main() {
@@ -148,6 +156,9 @@ int main() {
 ```
 ### 7.
 ```
+// sneha diwan
+// 23070123126
+// entc b2 
 #include <iostream>
 
 int main() {
