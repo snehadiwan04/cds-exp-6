@@ -192,3 +192,4 @@ Nested loops enable complex iteration, such as iterating over multi-dimensional 
 
 
 ## Conclusion:-
+Decision-making statements like if, Elif, and else control code execution based on conditions, while loops (for and while) repeat code blocks. Combining these allows dynamic, responsive programming. For example, if statements within loops enable actions based on conditions during each iteration, efficiently handling varying data and scenarios.
