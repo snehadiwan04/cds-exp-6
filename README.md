@@ -1,4 +1,4 @@
-# Experiment-
+# Experiment-6
 ## Aim -
 To study and implement C++ decision-making statement loops.
 ## Apparatus -
