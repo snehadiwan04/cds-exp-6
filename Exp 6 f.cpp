@@ -1,3 +1,6 @@
+// sneha diwan
+// 23070123126
+// entc b2
 #include <iostream>
 
 int main() {
